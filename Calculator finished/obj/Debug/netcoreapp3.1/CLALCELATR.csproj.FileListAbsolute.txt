@@ -1,0 +1,52 @@
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.exe
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.deps.json
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.json
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.dev.json
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.csprojAssemblyReference.cache
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfoInputs.cache
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfo.cs
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.csproj.CoreCompileInputs.cache
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\source\repos\CLALCELATR\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.genruntimeconfig.cache
+C:\Users\sereb\source\repos\part4\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.exe
+C:\Users\sereb\source\repos\part4\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.deps.json
+C:\Users\sereb\source\repos\part4\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.json
+C:\Users\sereb\source\repos\part4\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.dev.json
+C:\Users\sereb\source\repos\part4\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\source\repos\part4\CLALCELATR\bin\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\source\repos\part4\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.csprojAssemblyReference.cache
+C:\Users\sereb\source\repos\part4\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfoInputs.cache
+C:\Users\sereb\source\repos\part4\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfo.cs
+C:\Users\sereb\source\repos\part4\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.csproj.CoreCompileInputs.cache
+C:\Users\sereb\source\repos\part4\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\source\repos\part4\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\source\repos\part4\CLALCELATR\obj\Debug\netcoreapp3.1\CLALCELATR.genruntimeconfig.cache
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.exe
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.deps.json
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.json
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.dev.json
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.csprojAssemblyReference.cache
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfoInputs.cache
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfo.cs
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.csproj.CoreCompileInputs.cache
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\Desktop\CALC\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.genruntimeconfig.cache
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.exe
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.deps.json
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.json
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.runtimeconfig.dev.json
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\bin\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.csprojAssemblyReference.cache
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfoInputs.cache
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.AssemblyInfo.cs
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.csproj.CoreCompileInputs.cache
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.dll
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.pdb
+C:\Users\sereb\Desktop\New folder\1stYear\Calculator finished\obj\Debug\netcoreapp3.1\CLALCELATR.genruntimeconfig.cache
